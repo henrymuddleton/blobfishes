@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x48949ec4afe63B8D32758D3056dF5d0d3EeB22Bb",
+  "SCAN_LINK": "https://polygonscan.com/token/0x48949ec4afe63b8d32758d3056df5d0d3eeb22bb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Blobfishes",
+  "SYMBOL": "BLOBFISH",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/theblobfishes",
+  "SHOW_BACKGROUND": true
+}
